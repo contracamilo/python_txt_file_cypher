@@ -1,4 +1,4 @@
-# ACTIVIDAD 6: Proyecto final
+# ACTIVITY 6: Final Project
 
 Firstly, you must make three decisions:
 
